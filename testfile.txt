@@ -1,4 +1,4 @@
-this is a test file to figure out git branching
+his is a test file to figure out git branching
 
 you should only see this line on mybranch
 
