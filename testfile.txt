@@ -1,3 +1,11 @@
 this is a test file to figure out git branching
 
 you should only see this line on mybranch
+
+and this line should only  be in the master
+
+new additions to branch
+
+this shouldnt be merged yet
+
+lets add another line
